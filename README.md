@@ -10,5 +10,6 @@ sudo dnf install clisp
 
 ```sh
 clisp args.lisp qwe asd dfg
+clisp reafile.lisp
 ```
 
